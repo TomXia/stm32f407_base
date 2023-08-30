@@ -1,0 +1,15 @@
+{
+    "C_Cpp.default.includePath": [
+        "inc",
+        "src"
+    ],
+    "files.associations": {
+        "main.h": "c",
+        "stm32f4xx.h": "c"
+    },
+    "C_Cpp.default.defines": [
+        "HSE_VALUE=((uint32_t)8000000)",
+        "DUSE_STDPERIPH_DRIVER",
+        "STM32F40XX"
+    ]
+}
